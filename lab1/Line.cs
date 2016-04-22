@@ -1,0 +1,23 @@
+﻿using System.Drawing;
+
+namespace lab1
+{
+    class Line : Figure
+    {
+        private int x1, y1, x2, y2;
+        public Line(int x1, int y1, int x2, int y2)
+        {
+            this.x1 = x1;
+            this.y1 = y1;
+            this.x2 = x2;
+            this.y2 = y2;
+            pen = new Pen(Color.Black);
+        }
+
+        public override void Draw(Bitmap bmp)
+        {
+            Graphics graphics = Graphics.FromImage(bmp);            
+            graphics.DrawLine(pen, x1, y1, x2, y2);
+        }
+    }
+}

@@ -1,0 +1,25 @@
+D:\programming\4 semestr\ООП\lab1\lab1\bin\Debug\lab1.exe.config
+D:\programming\4 semestr\ООП\lab1\lab1\obj\Debug\lab1.csprojResolveAssemblyReference.cache
+D:\programming\4 semestr\ООП\lab1\lab1\obj\Debug\lab1.GraphProg.resources
+D:\programming\4 semestr\ООП\lab1\lab1\obj\Debug\lab1.Properties.Resources.resources
+D:\programming\4 semestr\ООП\lab1\lab1\obj\Debug\lab1.csproj.GenerateResource.Cache
+D:\programming\4 semestr\ООП\lab1\lab1\bin\Debug\lab1.exe
+D:\programming\4 semestr\ООП\lab1\lab1\bin\Debug\lab1.pdb
+D:\programming\4 semestr\ООП\lab1\lab1\obj\Debug\lab1.exe
+D:\programming\4 semestr\ООП\lab1\lab1\obj\Debug\lab1.pdb
+d:\lab1\lab1\bin\Debug\lab1.exe.config
+d:\lab1\lab1\obj\Debug\lab1.exe
+d:\lab1\lab1\obj\Debug\lab1.pdb
+d:\lab1\lab1\bin\Debug\lab1.exe
+d:\lab1\lab1\bin\Debug\lab1.pdb
+d:\lab1\lab1\obj\Debug\lab1.csprojResolveAssemblyReference.cache
+d:\lab1\lab1\obj\Debug\lab1.GraphProg.resources
+d:\lab1\lab1\obj\Debug\lab1.Properties.Resources.resources
+d:\lab1\lab1\obj\Debug\lab1.csproj.GenerateResource.Cache
+C:\Users\vlad\Documents\bsuir\oop\lab1\lab1\bin\Debug\lab1.exe.config
+C:\Users\vlad\Documents\bsuir\oop\lab1\lab1\obj\Debug\lab1.exe
+C:\Users\vlad\Documents\bsuir\oop\lab1\lab1\obj\Debug\lab1.pdb
+C:\Users\vlad\Documents\bsuir\oop\lab1\lab1\obj\Debug\lab1.csprojResolveAssemblyReference.cache
+C:\Users\vlad\Documents\bsuir\oop\lab1\lab1\obj\Debug\lab1.GraphProg.resources
+C:\Users\vlad\Documents\bsuir\oop\lab1\lab1\obj\Debug\lab1.Properties.Resources.resources
+C:\Users\vlad\Documents\bsuir\oop\lab1\lab1\obj\Debug\lab1.csproj.GenerateResource.Cache
